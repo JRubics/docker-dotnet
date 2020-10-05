@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/jrubics/.dotnet/store/|arch|/|tfm|",
+      "/Users/jrubics/.nuget/packages"
+    ]
+  }
+}
